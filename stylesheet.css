@@ -1,0 +1,47 @@
+div {
+    
+    border: 5px solid brown;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    height: 70vh;
+    width: 300px;
+    align-content: center;
+    padding: 20px;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    color: aqua;
+    text-transform: uppercase;
+    border:2px solid greenyellow;
+    background-color:darkgrey;
+
+}
+
+input{
+    border-radius: 10px;
+    border:2px solid#333
+}
+option{
+    color: red;
+}
+
+h5{
+    color: aqua;
+    background-color: darkorchild;
+    background-color:white;
+    font-size:medium
+}
+button{
+    font-weight: 600;
+    font-family:'Times New Roman', Times, serif
+}
